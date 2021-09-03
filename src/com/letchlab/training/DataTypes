@@ -1,0 +1,22 @@
+Data Types:
+
+  Premitive Data Types : (Always represents the size and type of variable)
+    byte:  size is 1 byte and it can store whole numbers from -128 to 127.
+    short: size is 2 byte and it can stores whole numbers from -32768 to 32767.
+    int:   size is 4 bytes
+    long:  Size is 8 bytes
+    float: Size is 4 bytes and it stores fractional numbers. decimal numbers
+          6-7 digits.
+    double: Size is 8 bytes , Store decimal digits upto 15.
+    boolean: 1bit and it stores only true and false.
+    char: 2bytes and it can contains ASCII values ot letter or Single Character.
+  Non Premitive Data Type:
+    String:
+    int:
+    Array:
+    class: (Student, Person)
+    Person sahil = new Person();
+
+
+
+    #short input = 32767;
