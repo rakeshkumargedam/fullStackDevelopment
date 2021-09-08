@@ -6,7 +6,7 @@ public class Test {
 }
 2. any variable needs to be start with lower case and follow the camel case
 
-Camel case :  rakeshKumarGedam
+Camel case :  theWorldIsVerySmall
 
 3. Methods and variables or anything needs to be define inside the class that
 means after the open { and before }.
