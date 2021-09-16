@@ -1,0 +1,52 @@
+Basic Guidlines to write a Java Program :
+
+1. Class name should start with Capital Letter (Upper Case).
+
+public class Test {
+}
+2. any variable needs to be start with lower case and follow the camel case
+
+Camel case :  theWorldIsVerySmall
+
+3. Methods and variables or anything needs to be define inside the class that
+means after the open { and before }.
+
+Example :
+
+public class Test { --- After this we can write anything inside the class.
+}
+4. Method name should always start with lower case and follow the camel case
+conventions :
+
+Example :
+
+public class Test {
+
+public void getSample() {
+}
+}
+}
+
+5. in methods if we need to pass any inputs it always inside the () and logic of
+ method should always be inside the method that means { of method.
+
+ Example :
+
+ public class Test {
+ public void getSample(String input, int number, String address) {
+
+ All method logic goes here.
+ }
+ }
+ }
+
+6. Every Statement in java should be ends with terminator which is ;.
+Example :
+
+ public class Test {
+ public void getSample(String input, int number, String address) {
+
+ System.out.println("Test"); <====== Semicolon terminator
+ }
+ }
+ }
