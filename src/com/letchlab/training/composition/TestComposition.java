@@ -7,6 +7,8 @@ public class TestComposition {
         job.setId(20);
         job.setRole("trainee");
         System.out.println(p1.getRole());
+        System.out.println(p1.getSalary());
+
 
     }
 }
