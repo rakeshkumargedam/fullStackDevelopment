@@ -2,45 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988b571c-2d10-49d2-ac6e-20d4ec0ebb34" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LtechLab.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/DataTypes" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/DataTypes.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/GetNames.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/LtechLabWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/SecondMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/TeachTypeCasting.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/Inheritance.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/OppsConcept.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/Cat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/aggregation/College.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/aggregation/Department.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/aggregation/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/aggregation/TestAggregation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/association/Bank.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/association/Employee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/association/TestAssociation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/car/Breaks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/car/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/car/Engine.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/car/Steering.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/car/TestMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/oops/inheritance/car/Vehicle.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/student/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/com/letchlab/training/student/Student.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LtechLab/notes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/aggrigation/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/aggrigation/Hotel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="ProjectId" id="1yasPgXWrCXcFbKgYKQAW0XSCU0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -50,7 +30,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TestCompositionBook">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="fullStackDevelopment" />
@@ -64,8 +44,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestCompositionBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.composition.TestCompositionBook" />
+      <module name="fullStackDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.composition.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCompositionBook" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>

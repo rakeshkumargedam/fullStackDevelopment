@@ -20,7 +20,9 @@ public class Hotel {
             RoomType room = (RoomType)var3.next();
             List<Guest> name = room.getName();
 
-            for(Iterator var5 = name.iterator(); var5.hasNext(); ++total) {
+            for(Iterator var5 = name.iterator();
+
+                var5.hasNext(); ++total) {
                 Guest g = (Guest)var5.next();
             }
         }
