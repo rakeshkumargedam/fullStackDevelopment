@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988b571c-2d10-49d2-ac6e-20d4ec0ebb34" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/aggrigation/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/aggrigation/Hotel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -30,13 +29,26 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
-  <component name="RunManager" selected="Application.TestCompositionBook">
+  <component name="RunManager" selected="Application.TestAggrigation">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="fullStackDevelopment" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestAggrigation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.aggrigation.TestAggrigation" />
+      <module name="fullStackDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.aggrigation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -59,6 +71,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestAggrigation" />
         <item itemvalue="Application.TestCompositionBook" />
         <item itemvalue="Application.Main" />
       </list>

@@ -1,5 +1,7 @@
 package com.company.aggrigation;
 
+import com.letchlab.training.oops.inheritance.aggregation.Student;
+
 import java.util.Iterator;
 import java.util.List;
 
@@ -14,19 +16,15 @@ public class Hotel {
 
     public int getTotalGuestInHotel() {
         int total = 0;
-        Iterator var3 = this.roomType.iterator();
+        List<Guest> name;
+        for (RoomType room : roomType) {
+            name = room.getName();
 
-        while(var3.hasNext()) {
-            RoomType room = (RoomType)var3.next();
-            List<Guest> name = room.getName();
-
-            for(Iterator var5 = name.iterator();
-
-                var5.hasNext(); ++total) {
-                Guest g = (Guest)var5.next();
+            for (Guest G : name) {
+                total++;
             }
-        }
 
+        }
         return total;
     }
 }
