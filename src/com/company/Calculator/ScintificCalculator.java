@@ -22,6 +22,7 @@ public class ScintificCalculator extends Calculator {
         System.out.println("Factorial of a is :"+ fact);
     }
 
+
     public void Percentage(){
         System.out.println("Enter Percent value: ");
         Scanner sc = new Scanner(System.in);

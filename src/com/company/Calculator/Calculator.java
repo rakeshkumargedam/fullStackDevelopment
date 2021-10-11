@@ -35,6 +35,8 @@ public class Calculator {
         System.out.println("Square root of y: "+ this.z);
 
     }
+
+
     public void Square(int x, int y){
         this.z = x*x;
         this.z = y*y;
