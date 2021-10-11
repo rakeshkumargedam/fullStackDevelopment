@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="988b571c-2d10-49d2-ac6e-20d4ec0ebb34" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/com/company/aggrigation/Hotel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/aggrigation/Hotel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Calculator/ScintificCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/Calculator/TestCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/association/TestAssociation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/association/TestAssociation.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,15 +31,28 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="D:/class" />
   </component>
-  <component name="RunManager" selected="Application.TestAggrigation">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+  <component name="RunManager" selected="Application.TestCalculator">
+    <configuration name="Calculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Calculator.Calculator" />
       <module name="fullStackDevelopment" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.*" />
+          <option name="PATTERN" value="com.company.Calculator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ScintificCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Calculator.ScintificCalculator" />
+      <module name="fullStackDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,6 +66,19 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.aggrigation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestCalculator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Calculator.TestCalculator" />
+      <module name="fullStackDevelopment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.Calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,9 +101,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TestCalculator" />
+        <item itemvalue="Application.ScintificCalculator" />
+        <item itemvalue="Application.Calculator" />
         <item itemvalue="Application.TestAggrigation" />
         <item itemvalue="Application.TestCompositionBook" />
-        <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
   </component>
