@@ -11,7 +11,7 @@ public class Games
         this.teamsList=teamsList;
 
     }
-    public int getTotalPlayersInTeams(){
+    public int getTotalTeamsinGames(){
         int total = 0;
 
         List<Player>players;

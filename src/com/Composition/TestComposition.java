@@ -7,7 +7,7 @@ public class TestComposition {
         home.setExpenditure(10000);
         home.setRole("papa");
 
-        System.out.println(f1.getIncome());
+        System.out.println(f1.getRole());
 
 
     }

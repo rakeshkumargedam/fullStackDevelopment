@@ -28,7 +28,7 @@ public class Test
          teamsList.add(teamsKKR);
          teamsList.add(teamsRCB);
          Games games=new Games("Cricket",teamsList);
-        System.out.println("Totalnumber of players in Teams");
-        System.out.println(games.getTotalPlayersInTeams());
+        System.out.println("Totalnumber of Teams in games");
+        System.out.println(games.getTotalTeamsinGames());
     }
 }
