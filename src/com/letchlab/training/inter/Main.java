@@ -2,6 +2,7 @@ package com.letchlab.training.inter;
 
 public class Main {
     public static void main(String[] args) {
+
         PowerPlantImpl pp =new PowerPlantImpl();
         pp.setTypeOfPowerPlant();
         System.out.println("Type Of Power Plant is " +pp.getTypeOfPowerPlant());
