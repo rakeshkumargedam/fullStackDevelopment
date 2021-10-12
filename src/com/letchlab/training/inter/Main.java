@@ -8,6 +8,7 @@ public class Main {
         System.out.println("Type Of Power Plant is " +pp.getTypeOfPowerPlant());
         pp.setPowerProduce();
         System.out.println("Power Produce is "+ pp.getPowerProduce());
+        System.out.println("working");
     }
 }
 
