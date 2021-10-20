@@ -31,7 +31,7 @@ public class ScintificCalculator extends Calculator {
         float V = sc.nextInt();
         float Percentage = (P/100)*V;
         System.out.printf("%.2f of %.2f is:", P, V);
-        System.out.println(Percentage);
+        System.out.println(Percentage+"%");
 
 
     }

@@ -1,7 +1,5 @@
 package com.company;
 public class AddNumber {
-    public AddNumber() {
-    }
 
     public static void main(String[] args) {
         int A = 10;
