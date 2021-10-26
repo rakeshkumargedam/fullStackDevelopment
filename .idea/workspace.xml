@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc402157-80cc-4f35-abcc-6c756489b237" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="264e80c8-1eb5-4c84-b93e-a92484547e7b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/fullStackDevelopment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/rahulv_text.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+<<<<<<< HEAD
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
     <option name="PARALLEL_COMPILATION" value="true" />
@@ -351,16 +352,35 @@
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
+=======
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="SvnConfiguration">
-    <configuration />
+  <component name="ProjectId" id="1yV04WWNPBlRJ187yRD9JQ0D1zS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+>>>>>>> b1fdb8835fae394c60a8f5148e5ee1f7b64fdff7
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="dc402157-80cc-4f35-abcc-6c756489b237" name="Default Changelist" comment="" />
-      <created>1630072221020</created>
+      <changelist id="264e80c8-1eb5-4c84-b93e-a92484547e7b" name="Changes" comment="" />
+      <created>1632321256216</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
+<<<<<<< HEAD
       <updated>1630072221020</updated>
       <workItem from="1630072224337" duration="25856000" />
       <workItem from="1631852689025" duration="8099000" />
@@ -922,5 +942,22 @@
         </state>
       </provider>
     </entry>
+=======
+      <updated>1632321256216</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+>>>>>>> b1fdb8835fae394c60a8f5148e5ee1f7b64fdff7
   </component>
 </project>
